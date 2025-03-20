@@ -34,12 +34,11 @@ Screenshots:
  - Specular.
 
 <img src="README/Specular.png" alt="Screenshot">
- 
 
-[Watch on YouTube](https://youtu.be/nXvglBN2ddM)    
-
-Click on the image to watch the demo.
-[![Watch the video](README/videothumb.png)](README/demo.mp4)  
+ - This is a video from original development  
+[Watch on YouTube](https://youtu.be/nXvglBN2ddM)  
+[![Watch on YouTube](README/videothumb.png)](https://youtu.be/nXvglBN2ddM) 
+  
 
 
 
