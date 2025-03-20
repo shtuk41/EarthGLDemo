@@ -2,7 +2,7 @@
 Demonstration of handling texture mapping, bump mapping, lighting, blending, specular and normal maps.
 
 
-It has dependencies on freeglut (https://freeglut.sourceforge.net/), glew32 (https://glew.sourceforge.net/basic.html), and a library written by Edward Angel (https://www.cs.unm.edu/~angel/BOOK/INTERACTIVE_COMPUTER_GRAPHICS/SIXTH_EDITION/) used in Computer Graphics course, and DevIL image library (https://openil.sourceforge.net/).  It was developed for school project in 2011.
+It has dependencies on freeglut (https://freeglut.sourceforge.net/), glew32 (https://glew.sourceforge.net/basic.html), and a library written by Edward Angel (https://www.cs.unm.edu/~angel/BOOK/INTERACTIVE_COMPUTER_GRAPHICS/SIXTH_EDITION/) used in Computer Graphics course, and DevIL image library (https://openil.sourceforge.net/).  The textures downloaded from https://www.solarsystemscope.com/textures/.  These are not original textures using during development.  It was developed for school project in 2011.
 
 Controls:  
 
@@ -10,6 +10,10 @@ Controls:
  - v key switches different maps
 
 Screenshots:
+
+ - Blended.
+
+<img src="README/DayNight.png" alt="Screenshot"> 
 
  - Surface
 
@@ -30,12 +34,12 @@ Screenshots:
  - Specular.
 
 <img src="README/Specular.png" alt="Screenshot">
-
  
 
- - Blended.
+[Watch on YouTube](https://youtu.be/nXvglBN2ddM)    
 
-<img src="README/DayNight.png" alt="Screenshot">
+Click on the image to watch the demo.
+[![Watch the video](README/videothumb.png)](README/demo.mp4)  
 
 
 
