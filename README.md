@@ -11,7 +11,7 @@ Controls:
 
 Screenshots:
 
- - Blended.
+ - Day and night maps blended together.
 
 <img src="README/DayNight.png" alt="Screenshot"> 
 
